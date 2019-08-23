@@ -1,0 +1,5 @@
+entry: 8 is not valid. IVTES2gain10_79.53mK_BB3.17K_magnet0uA.qdp
+entry: 8 is not valid| file: IVTES2gain10_79.53mK_BB3.17K_magnet0uA.qdp|  super: False | readout: 0 | powerAv: -0.029911569693914664
+entry: 8 is not valid| file: IVTES2gain10_79.53mK_BB3.17K_magnet0uA.qdp|  super: False | readout: 0 | powerAv: -0.029911569693914664
+entry: 8 is not valid| file: IVTES2gain10_79.53mK_BB3.17K_magnet0uA.qdp|  super: False | readout: 0 | powerAv: -0.029911569693914664
+entry: 8 is not valid| file: IVTES2gain10_79.53mK_BB3.17K_magnet0uA.qdp|  super: False | readout: 0 | powerAv: -0.029911569693914664
